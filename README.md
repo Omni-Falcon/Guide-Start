@@ -11,3 +11,4 @@
 - [ ] Audio Editor Software
 - [ ] 3D Modelling Software
 - [ ] Custom Kernel
+- [ ] Custom Office Suit
