@@ -7,6 +7,7 @@
   - [ ] Custom Graphics API
   - [ ] Ray Tracing Support
 - [ ] RHyX API (GUI)
+  - [x] Lib Restructured
 - [ ] Game engine (2D/3D)
 - [ ] Audio Editor Software
 - [ ] 3D Modelling Software
