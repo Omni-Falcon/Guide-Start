@@ -4,6 +4,7 @@
   - [ ] Custom Window Manager
   - [ ] Network Driver
   - [ ] Miscellaneous Driver
+  - [ ] C/C++ FreeBSD Socket Server
   - [ ] Custom Graphics API
   - [ ] Ray Tracing Support
 - [ ] RHyX API (GUI)
