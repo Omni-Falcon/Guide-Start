@@ -28,7 +28,7 @@ component = component for header file
     - component
   - utils/
   - makefile
-
+#
 - Project: Type 2
   - etc/
   - src/
@@ -39,7 +39,7 @@ component = component for header file
     - component/
   - tools/
   - makefile
-
+#
 - Project: Type 3
   - assets/
   - etc/
