@@ -51,3 +51,19 @@ component = component for header file
     - component/
   - tools/
   - test/
+#
+- Project: Type 4
+  - include
+  - lib
+  - src
+  - tools
+  - makefile
+  - 
+#
+- Project: Type 5
+  - include/
+  - lib/
+  - src/
+  - tools/
+  - test/
+  - makefile
